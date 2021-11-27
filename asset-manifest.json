@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tailwind_Dashboard/static/css/main.98e75f9b.chunk.css",
+    "main.js": "/Tailwind_Dashboard/static/js/main.f047c5b1.chunk.js",
+    "main.js.map": "/Tailwind_Dashboard/static/js/main.f047c5b1.chunk.js.map",
+    "runtime-main.js": "/Tailwind_Dashboard/static/js/runtime-main.5ffef35f.js",
+    "runtime-main.js.map": "/Tailwind_Dashboard/static/js/runtime-main.5ffef35f.js.map",
+    "static/js/2.87dc0b51.chunk.js": "/Tailwind_Dashboard/static/js/2.87dc0b51.chunk.js",
+    "static/js/2.87dc0b51.chunk.js.map": "/Tailwind_Dashboard/static/js/2.87dc0b51.chunk.js.map",
+    "index.html": "/Tailwind_Dashboard/index.html",
+    "static/css/main.98e75f9b.chunk.css.map": "/Tailwind_Dashboard/static/css/main.98e75f9b.chunk.css.map",
+    "static/js/2.87dc0b51.chunk.js.LICENSE.txt": "/Tailwind_Dashboard/static/js/2.87dc0b51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ffef35f.js",
+    "static/js/2.87dc0b51.chunk.js",
+    "static/css/main.98e75f9b.chunk.css",
+    "static/js/main.f047c5b1.chunk.js"
+  ]
+}
